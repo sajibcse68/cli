@@ -1,7 +1,7 @@
 ---
 title: Tutorials
 menu:
-  docs_0.7.1:
+  docs_0.7.2:
     identifier: tutorials
     name: Tutorials
     weight: 8
